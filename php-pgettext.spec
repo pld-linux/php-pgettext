@@ -1,6 +1,5 @@
 %define		pkgname	pgettext
 %define		php_min_version 4.2.0
-%include	/usr/lib/rpm/macros.php
 Summary:	pgettext wrapper for php gettext
 Name:		php-%{pkgname}
 Version:	0.1
